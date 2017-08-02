@@ -1,0 +1,9 @@
+C:\Users\mofasiul\Downloads\proxy\proxy\bin\Release\netcoreapp1.1\proxy.deps.json
+C:\Users\mofasiul\Downloads\proxy\proxy\bin\Release\netcoreapp1.1\proxy.runtimeconfig.json
+C:\Users\mofasiul\Downloads\proxy\proxy\bin\Release\netcoreapp1.1\proxy.runtimeconfig.dev.json
+C:\Users\mofasiul\Downloads\proxy\proxy\bin\Release\netcoreapp1.1\proxy.dll
+C:\Users\mofasiul\Downloads\proxy\proxy\bin\Release\netcoreapp1.1\proxy.pdb
+C:\Users\mofasiul\Downloads\proxy\proxy\obj\Release\netcoreapp1.1\proxy.csprojResolveAssemblyReference.cache
+C:\Users\mofasiul\Downloads\proxy\proxy\obj\Release\netcoreapp1.1\proxy.AssemblyInfo.cs
+C:\Users\mofasiul\Downloads\proxy\proxy\obj\Release\netcoreapp1.1\proxy.dll
+C:\Users\mofasiul\Downloads\proxy\proxy\obj\Release\netcoreapp1.1\proxy.pdb
